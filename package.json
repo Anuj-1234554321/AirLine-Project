@@ -1,0 +1,27 @@
+{
+  "name": "airline",
+  "version": "1.0.0",
+  "description": "AirLine Backend developement project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuj-1234554321/AirLine-Project.git"
+  },
+  "author": "Anuj Awasthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anuj-1234554321/AirLine-Project/issues"
+  },
+  "homepage": "https://github.com/Anuj-1234554321/AirLine-Project#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http-status-codes": "^2.3.0",
+    "mongoose": "^8.9.5",
+    "nodemon": "^3.1.9",
+    "winston": "^3.17.0"
+  }
+}
